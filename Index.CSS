@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@700&display=swap');
+
+body {
+  font-family: 'Baloo 2', cursive;
+  font-weight: 700;
+}
+
+
+
+
+
+
+.form-container {
+  position: relative; /* Make container a positioned element */
+}
+
+.VerxaLogo {
+  width: 40px; /* Adjust the logo size */
+  height: auto; /* Maintain aspect ratio */
+  position: absolute; /* Position relative to the container */
+  top: 10px; /* Distance from the top */
+  left: 10px; /* Distance from the left */
+}
